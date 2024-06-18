@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Colegio Independencia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40974, -71.53203]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paradero Estadio Melgar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40773, -71.53389]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av Jorge Chavez"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40573, -71.53339]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paradero Victor Lira"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40493, -71.53238]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "San Camilo"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40413, -71.53145]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paucarpata"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40256, -71.52934]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paradero Independencia-Paucarpata"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40429, -71.52746]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "AV. Independencia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40246, -71.52504]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paradero la Salle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40175, -71.52425]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paradero M.Castilla"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.39952, -71.52165]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av. Sepulveda"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.39888, -71.5212]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av Teniente Ferre"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.39959, -71.51519]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Ovalo Sepulveda"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.3997, -71.51178]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Calle Elías Aguirre"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40254, -71.5149]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av Lima"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.4039, -71.51279]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Parque Umachiri"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40041, -71.507]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Calle Amazonas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40043, -71.5058]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Av Argetina"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40528, -71.50255]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paradero Pio-XII"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40437, -71.49484]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nombre": "Paradero final"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-16.40332, -71.49062]
+        }
+      }
+    ]
+  }
+  
